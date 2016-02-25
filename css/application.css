@@ -8,4 +8,24 @@
 body {
   margin: 0px; }
 
+.main-container,
+.container1,
+.container2,
+.container3,
+.container4 {
+  width: 100%; }
+
+.navbar-top {
+  display: none; }
+
+.navbar-bottom {
+  overflow: hidden;
+  position: relative;
+  top: 7px;
+  right: 0;
+  width: 100%;
+  height: 55%;
+  padding: 5px 0 5px 0;
+  background-color: #00456E; }
+
 /*# sourceMappingURL=application.css.map */
